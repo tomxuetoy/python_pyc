@@ -1,0 +1,2 @@
+python pyc_compile.py
+python pyc_compileall.py
